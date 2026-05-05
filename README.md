@@ -75,57 +75,7 @@ PayrollSystem/
 │   ├── script.js
 ```
 ---
-🔹 Backend Files Description
-Main.java
 
-Main entry point of project.
-
-Handles:
-
-Menu System
-User Input
-Calls Payroll methods
-Employee.java
-
-Stores employee data:
-
-ID
-Name
-Salary
-Manager.java
-
-Extends Employee.
-
-Extra Feature:
-
-Bonus Salary
-Payroll.java
-
-Handles:
-
-Add Employee
-View Employee
-Remove Employee
-🔹 Frontend Files Description
-index.html
-
-Main webpage UI.
-
-Contains:
-
-Employee Name Input
-Salary Input
-Add Button
-Employee List
-style.css
-
-Provides styling:
-
-Responsive Layout
-Buttons
-Colors
-Clean UI
-script.js
 
 Handles:
 
